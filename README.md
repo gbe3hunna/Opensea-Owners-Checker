@@ -3,7 +3,9 @@
 
 A simple Python script to **retrieve Owners/Holders of a whole NFT collection on ETH (OpenSea)**.
 
-This can be useful for any NFT project staff to Snapshot the actual holders
+Created for [DOS PUNKS Community](https://opensea.io/collection/dos-punks) to thank [@maxcapacity](https://twitter.com/maxcapacity) and [@greencrosslive](https://twitter.com/greencrosslive) all their effort to build such a strong DOS world.
+
+This script can be useful for any NFT project staff to Snapshot the actual holders
 
 
 
